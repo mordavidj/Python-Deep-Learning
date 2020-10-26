@@ -6,7 +6,7 @@ The technologies I intend to learn:
 
 * [ ] Pytorch
 * [ ] Tensorflow
-      * [ ] Keras
+     * [ ] Keras
 * [ ] scikit-learn
 * [ ] NumPy
 * [ ] pandas
