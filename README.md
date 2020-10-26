@@ -4,8 +4,8 @@ The goal of this repository is to both log my learning/relearning of machine lea
 
 The technologies I intend to learn:
 
-[ ] Pytorch
-[ ] Tensorflow/Keras
-[ ] scikit-learn
-[ ] NumPy
-[ ] pandas
+* [ ] Pytorch
+* [ ] Tensorflow/Keras
+* [ ] scikit-learn
+* [ ] NumPy
+* [ ] pandas
