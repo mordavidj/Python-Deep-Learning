@@ -1,14 +1,15 @@
 # Tensorflow
 
-The goal of this repository is to both log my learning/relearning of tensorflow/keras tools and to be used as evidence of projects.
+The goal of this repository is to both log my learning/relearning of tensorflow/keras tools in python and to be used as evidence of projects.
 
-Relevant specs:
+#### Relevant specs ####
+
 * Windows 10
 * Dell Inspiron 7000
 * Nvidia GTX 1050
 * Anaconda 4.9.0
 
-| Name                       | Version      |
+| Anaconda Package Name      | Version      |
 |----------------------------|--------------|
 | _tflow_select              | 2.1.0        |
 | absl-py                    | 0.10.0       |
